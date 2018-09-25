@@ -3,7 +3,7 @@
 
 项目设计
 ##### 功能设计
-![实现原理](https://pan.baidu.com/s/11hlUDEwZshXcaPBaKR6PmA)
+![实现原理](https://github.com/IDEA-Fang/ShowImgOnGithub/blob/master/Tomcat/Scoket.jpg)
 
 ### 角色划分：
 
@@ -29,8 +29,8 @@
 
 ### 技术点
 
-![项目效果1](https://pan.baidu.com/s/1dj7wJ3SgY3fFBmHG3vg19g)
-![项目效果2](https://pan.baidu.com/s/1JqCO7riyMkr528ppJMBynw)
+![项目效果1](https://github.com/IDEA-Fang/ShowImgOnGithub/blob/master/Tomcat/Tomcat02Page.png)
+![项目效果2](https://github.com/IDEA-Fang/ShowImgOnGithub/blob/master/Tomcat/Tomcat02Request.png)
 
 后端开发，按照dao->service->controller的api的顺序开发
 
