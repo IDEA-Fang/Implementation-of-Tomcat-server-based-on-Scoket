@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="user2" class="cn.version3.UserEntity">
+        <property name="userName" value="小张"/>
+        <property name="userId" value="22"/>
+    </bean>
+
+    <bean id="studentService" class="cn.version1.applyToservice.StudentService">
+        <property ref="student"/>
+    </bean>
+
+
+
+</beans>

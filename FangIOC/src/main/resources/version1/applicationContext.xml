@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="student" class="cn.version1.javaBean.Student">
+        <property name="mingzi" value="小张"/>
+        <property name="age" value="22"/>
+        <property name="sex" value="true"/>
+    </bean>
+
+    <bean id="studentService" class="cn.version1.applyToservice.StudentService">
+        <property ref="student"/>
+    </bean>
+
+
+
+</beans>
